@@ -1,12 +1,15 @@
 # SUPER MARIO
 
 ## 📌 Título
-#### Criando um Jogo simples do Super Mário
+#### Jogo do Super Mário
+
+## 💁Sobre o projeto
+Jogo simples em HTML, CSS e JavaScript, onde é possível pular obstáculos. O jogo termina quando você colide com algum obstáculo. O projeto foi desenvolvido e disponibilizado pelo Canal do Dev, no Youtube
 
 ## ⏱️ Status
 >  Em construção 🚧
 
-## ⚙️ Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> - 
